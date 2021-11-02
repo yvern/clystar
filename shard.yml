@@ -1,0 +1,13 @@
+name: clystar
+version: 0.1.0
+
+authors:
+  - yvern <ywern@protonmail.ch>
+
+crystal: 1.2.1
+
+license: MIT
+
+development_dependencies:
+  watch:
+    github: danreeves/watch
